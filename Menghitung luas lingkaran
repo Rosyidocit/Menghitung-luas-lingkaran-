@@ -1,0 +1,7 @@
+input ;
+1.jari jari dalam cm
+2.luas dalam cm2
+3.phi = 3,14
+proses;
+4.hitung luas= phixjari jari x jari jari
+5.tampilkan luas
